@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+h1 {
+    font-family: 'Lora', serif;
+    font-weight: 700;
+    font-size: 30pt;
+}
+
+h2 {
+    font-family: 'Lora', serif;
+    font-weight: 400;
+    font-size: 90pt;
+}
+
+
+.line {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+    font-size: 18pt;
+}
+
+header {
+    text-align: center;
+    padding: 20px 20px;
+    border: 10px solid #6787B7;
+    margin: 40px auto;
+    width: 90%;
+}
+
+.press {
+    padding-top: 100px;
+    margin: 10px auto;
+}
+
+.test {
+    padding-top: 10px;
+}
+
